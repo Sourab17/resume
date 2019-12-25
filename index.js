@@ -17,7 +17,7 @@ app.use(express.static('public'))
 
 
  
-app.get('/', (req, res) => res.sendFile(__dirname+ '/public/html/re.html'))
+app.get('/', (req, res) => res.sendFile(__dirname+ '/public/html/re1.html'))
 
 
  
